@@ -9,4 +9,5 @@ I was a Master of Science student at Department of Statistics of Hacettepe Unive
 My passion resides in machine learning and deep learning algorithms, supervised learning and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization and operational research.
 
 I am actively posting on LinkedIn both in English and Turkish! Let's connect and share the knowledge!
+
 <a href="[https://www.linkedin.com/in/merve-noyan-28b1a113a/](https://www.linkedin.com/in/mmuratarat/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
