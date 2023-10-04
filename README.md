@@ -2,7 +2,7 @@
 
 I am PhD-level educated, bilingual statistician and data scientist, who works to design, develop and implement advanced data-driven predictive methods, powered by machine learning and deep learning algorithms, to provide actionable insights from large volumes of real-world, structured and unstructured data in order to satisfy the business needs / goals for decision making across different industries and roles. I have a deep understanding of best data analytic practices to solve complex problems and I continuously improve myself and learn new emerging technologies, tools, and platforms to add new skills to my skill set.
 
-My passion resides in machine learning and deep learning algorithms, supervised learning and unsupervised learning methods, time series forecasting and modeling, big data, distribution theory, statistical analysis, optimization and operational research.
+My passion currently resides in modeling big data using supervised learning and unsupervised learning methods (such as machine learning and deep learning algorithms), Machine Learning Operations (MLOps), Transformer-based models on Hugging Face, Large Language Models (LLMs), Computer Vision and Natural Language Processing (NLP) and so on.
 
 I am actively posting on LinkedIn both in English and Turkish! Let's connect and share the knowledge!
 
